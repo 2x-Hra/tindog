@@ -17,7 +17,7 @@ h1{
 }
 
 
-/* ~~ Navigation Bar ~~  */
+/*  Navigation Bar   */
 .navbar{
     padding: 0 0 4.5rem;
 }
@@ -35,8 +35,12 @@ h1{
     font-weight: 300; /* Light */
 }
 
+.download-button{
+    margin: 5% 3% 5% 0;
+}
 
-/* IDs */
+
+/* ~~ IDs ~~ */
 #title{
     background-color: #ff4c68;
     color: #fff;
