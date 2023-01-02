@@ -92,3 +92,9 @@ p{
     border-radius: 100%;
     margin: 10px;
 }
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3%;    
+}
