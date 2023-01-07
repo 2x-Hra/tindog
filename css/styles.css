@@ -132,3 +132,12 @@ p{
         transform: rotate(0);
     }
 }
+
+
+/* Cta Section  */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    
+}
