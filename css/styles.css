@@ -139,5 +139,14 @@ p{
 #cta{
     background-color: #ff4c68;
     text-align: center;
+    padding: 7% 15%;
     
+}
+
+.cta-h3{
+    font-family: "Montserrat";
+    font-weight: 900; /* Black */
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;
 }
