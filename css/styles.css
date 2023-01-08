@@ -9,9 +9,7 @@ h1, h2, h3, h4, h5, h6{
     font-weight: bold;
 }
 
-h3{
-    font-size: 1.5rem;
-}
+
 p{
     color: #8f8f8f;
 }
@@ -135,6 +133,9 @@ p{
 .price-text{
     font-size: 3rem;
     line-height: 1.5;
+}
+.price-heading{
+    font-size: 1.5rem;
 }
 .pricing-column {
     padding: 3% 2%;
