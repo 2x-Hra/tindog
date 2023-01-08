@@ -76,6 +76,9 @@ p{
     background-color: #fff;
     position: relative;
 }
+.feature-title{
+    font-size: 1.5rem;
+}
 .feature-box{
     text-align: center;
     padding: 5%;
