@@ -122,16 +122,6 @@ p{
     padding: 3% 2%;
 }
 
-@media (max-width: 993px){
-    #title{
-        text-align: center;
-    }
-    .title-image{
-        position: static;
-        width: 60%;
-        transform: rotate(0);
-    }
-}
 
 
 /* Cta Section  */
@@ -167,3 +157,19 @@ p{
 .footer-icon{
     padding: 3% 10px;
 }
+
+
+
+
+@media (max-width: 993px){
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+        width: 60%;
+        transform: rotate(0);
+    }
+}
+
+
