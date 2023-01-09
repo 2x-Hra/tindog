@@ -43,11 +43,12 @@ p{
 /* Sections */
 
 .colored-section{
-
+    background-color: #ff4c68;
+    color: #fff;
 }
 
 .white-section{
-    
+    background-color: #fff;
 }
 
 /*  Navigation Bar   */
@@ -79,8 +80,6 @@ p{
 }
 
 #title{
-    background-color: #ff4c68;
-    color: #fff;
     text-align: left;
 }
 
@@ -98,7 +97,7 @@ selector1 (parent)  selector2 (child) {
 /* Feature Section  */
 
 #features{
-    background-color: #fff;
+    
     position: relative;
 }
 .feature-title{
@@ -119,10 +118,7 @@ selector1 (parent)  selector2 (child) {
 /* testimonial Section  */
 
 #testimonials{
-   
-   
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-text{
@@ -168,12 +164,6 @@ selector1 (parent)  selector2 (child) {
 
 
 /* Cta Section  */
-
-#cta{
-    background-color: #ff4c68;
-    color: #fff;
-    
-}
 
 
 
